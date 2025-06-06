@@ -13,3 +13,20 @@
     overflow: hidden;
     background: linear-gradient(#87ceeb,#e0f6ff);
 }
+
+.pipe{
+    position: absolute;
+    bottom: 0;
+    width: 80px;
+}
+
+.mario {
+    width: 150px;
+    position: absolute;
+    bottom: 0;
+}
+
+.nuvem {
+    position: absolute;
+    width: 550px;
+}
