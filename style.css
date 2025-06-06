@@ -27,6 +27,10 @@
     bottom: 0;
 }
 
+.jump{
+    animation: jump 500ms ease-out;
+}
+
 .nuvem {
     position: absolute;
     width: 550px;
